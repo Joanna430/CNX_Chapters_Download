@@ -3,7 +3,7 @@ This code helps to download the CNX textbook chapters much faster.
 
 1. You first need to sign in the CNX platform using your username and password.
 
-2. Download the code. Change the number in line 70 "range()" bracket to the following index instruction in order to download the corresponding CNX chapters.
+2. Download both the code and the csv file. Change the number in line 70 "range()" bracket to the following index instruction in order to download the corresponding CNX chapters.
 
 Index instruction:
 
