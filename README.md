@@ -6,6 +6,7 @@ This code helps to download the CNX textbook chapters much faster.
 2. Download the code. Change the number in line 70 "range()" bracket to the following index instruction in order to download the corresponding CNX chapters.
 
 Index instruction:
+
 Preface -- range(0,1)
 
 Units and Measurement -- range(1,9)
